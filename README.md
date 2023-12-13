@@ -4,9 +4,9 @@
 - 💻 SnapshotIt - lightweight lib, helps to capture the state of component, and use during runtime of application
 
 ---
----
----
+<div style="text-align:center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhmedovEhson)](https://github.com/AkhmedovEhson/github-readme-stats)
+</div>
 
 
 
