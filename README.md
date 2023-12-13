@@ -5,8 +5,6 @@
 
 ---
 
-### :fire: My Stats:
-
 
 
 
