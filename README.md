@@ -1,6 +1,9 @@
 # 👋 Hi there, I’m Ehson
-🤎 Hobby is Web API development
-🧑‍💻 Coding is getting much more easy using .NET.
+<ul>
+  <li>🤎 Develop Web APIs</li>
+  <li>🦊 Math skills</li>
+</ul>
+<i>🧑‍💻 Coding is getting much more easy using .NET.</i>
 
 
 
