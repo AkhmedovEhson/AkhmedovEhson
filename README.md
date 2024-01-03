@@ -1,7 +1,6 @@
 # 👋 Hi there, I’m Ehson
 <ul>
   <li>🧑‍💻 Develop Web APIs</li>
-  <li>🦊 Math skills</li>
 </ul>
 <i>🧑‍💻 Coding is getting much more easy using .NET.</i>
 
