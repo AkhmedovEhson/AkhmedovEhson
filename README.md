@@ -2,7 +2,6 @@
 <ul>
   <li>🧑‍💻 Building Web APIs</li>
   <li>📚 Developing Libraries</li>
-  <li>⏰ Sockets </li>
 </ul>
 <i>🧑‍💻 Coding is getting much more easy using .NET.</i>
 
