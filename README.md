@@ -2,7 +2,7 @@
 <ul>
   <li>🧑‍💻 Building Web APIs</li>
 </ul>
-<i>🧑‍💻 Coding is getting much more easy using .NET.</i>
+<pre>Coding is getting much more easy using .NET.</pre>
 
 
 
