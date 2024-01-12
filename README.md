@@ -3,7 +3,6 @@
   <li>🧑‍💻 Building Web APIs</li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhmedovEhson&show_icons=true&theme=dark)
 
 <pre>Coding is getting much more easy using .NET.</pre>
 
