@@ -4,6 +4,8 @@
 </ul>
 <pre>Coding is getting much more easy using .NET.</pre>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AkhmedovEhson)](https://git.io/awesome-stats-card)
+
 
 
 
