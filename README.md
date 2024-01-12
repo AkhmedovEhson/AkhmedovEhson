@@ -3,7 +3,7 @@
   <li>🧑‍💻 Building Web APIs</li>
 </ul>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AkhmedovEhson?Background=505050&Text=DDDDDD&Title=DDDDDD&Border=505050&Ring=DDDDDD)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhmedovEhson&show_icons=true&theme=dark)
 
 <pre>Coding is getting much more easy using .NET.</pre>
 
