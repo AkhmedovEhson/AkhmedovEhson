@@ -4,7 +4,7 @@
 </ul>
 <pre>Coding is getting much more easy using .NET.</pre>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AkhmedovEhson)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AkhmedovEhson?Background=505050&Text=DDDDDD&Title=DDDDDD&Border=505050&Ring=DDDDDD)](https://git.io/awesome-stats-card)
 
 
 
