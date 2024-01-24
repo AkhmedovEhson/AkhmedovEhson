@@ -1,7 +1,14 @@
-# 👋 Hi there, I’m Ehson
-<ul>
-  <li>🧑‍💻 Building Web APIs</li>
-</ul>
+## 👋 Hi there, I’m Ehson
+
+### .NET and Study
+💡Building ( Programs and APIs ) using .NET.
+<br/> 📖 Love math, and solving math problems
+
+### Entertainment
+🤡 Watching horror movies.
+<br/>♟️ Playing chess ( standard level )
+
+
 
 
 <pre>Coding is getting much more easy using .NET.</pre>
