@@ -1,10 +1,10 @@
-## 👋 Hi there, I’m Ehson
+### 👋 Hi there, I’m Ehson Akhmedov
 
-### .NET and Study
+## .NET and Study
 💡Building ( Programs and APIs ) using .NET.
 <br/> 📖 Love math, and solving math problems
 
-### Entertainment
+## Entertainment
 🤡 Watching horror movies.
 <br/>♟️ Playing chess ( standard level )
 
