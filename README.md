@@ -1,4 +1,5 @@
-### 👋 Hi there, I’m Ehson Akhmedov
+## Introduction 
+Hi there, I am Ehson Akhmedov. ( .... )
 
 ## .NET and Study
 💡Building ( Programs and APIs ) using .NET.
