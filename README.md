@@ -1,17 +1,11 @@
 ## Introduction 
 Hi there, I am Ehson Akhmedov. ( .... )
-
-## .NET and Study
-💡Building ( Programs and APIs ) using .NET.
-<br/> 📖 Love math, and solving math problems
-
-## Entertainment
-🤡 Watching horror movies.
-<br/>♟️ Playing chess ( standard level )
-
-
-
-
+<ul>
+  <li>🌐 Building web APIs e.g rest api, microservices</li>
+  <li>📸 Building desktop applications</li>
+  <li>♻️ Building libraries</li>
+  <li>📝 Configuring docker files && ci/cd</li> 
+</ul>
 <pre>Coding is getting much more easy using .NET.</pre>
 
 
