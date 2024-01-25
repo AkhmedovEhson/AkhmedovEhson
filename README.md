@@ -1,7 +1,7 @@
 ## Introduction 
 Hi there, I am Ehson Akhmedov. ( .... )
 <ul>
-  <li>🌐 Building web APIs e.g rest api, microservices</li>
+  <li>🌐 Building APIs e.g rest api, microservices</li>
   <li>📸 Building desktop applications</li>
   <li>♻️ Building libraries</li>
   <li>📝 Configuring docker files && ci/cd</li> 
