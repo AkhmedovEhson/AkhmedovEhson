@@ -2,7 +2,6 @@
 Hi there, I am Ehson Akhmedov. ( .... )
 <ul>
   <li>🌐 Building APIs e.g rest api, microservices and so on.</li>
-  <li>📸 Building desktop applications.</li>
   <li>♻️ Building libraries e.g `SnapshotIt`.</li>
   <li>📝 Configuring docker files && ci/cd.</li> 
 </ul>
